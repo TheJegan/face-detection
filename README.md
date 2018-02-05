@@ -1,6 +1,8 @@
-#face detection
+# face detection
 
-## hard dependency
+Simple face detection library 
+
+### hard dependency
 
 
 brew tap homebrew/science
